@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ramat0218
-- 👀 I’m interested in Data science and Machine Learning.
-- 🌱 I’m currently learning Data Analytics.
+- 👋 Hi, I’m Ramat
 - 💞️ I’m looking to collaborate with colleagues and professionals in my fields of interest.
 - 📫 You can reach me via my email - ramatadetunji2016@gmail.com
 
